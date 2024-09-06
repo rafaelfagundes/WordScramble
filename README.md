@@ -51,8 +51,8 @@ Check out the game in action!
 
 1. Clone the repository.
    ```sh
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rafaelfagundes/WordScramble.git)
    ```
 2. Open the project in Xcode.
-`open Projects/hacking-with-swift/word-scramble/WordScramble/WordScramble.xcodeproj`
+`open WordScramble/WordScramble.xcodeproj`
 3. Run the app on the simulator or a connected device.
