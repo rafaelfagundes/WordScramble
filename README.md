@@ -51,7 +51,7 @@ Check out the game in action!
 
 1. Clone the repository.
    ```sh
-   git clone [<repository-url>](https://github.com/rafaelfagundes/WordScramble.git)
+   git clone https://github.com/rafaelfagundes/WordScramble.git
    ```
 2. Open the project in Xcode.
 `open WordScramble/WordScramble.xcodeproj`
