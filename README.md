@@ -15,7 +15,10 @@ WordScramble is a classic word scramble game built using SwiftUI. The goal of th
 
 Check out the game in action!
 
-![WordScramble Demo](demo.mp4)
+<video controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## How to Play
 
